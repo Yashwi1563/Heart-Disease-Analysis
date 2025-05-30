@@ -37,4 +37,4 @@ This project presents a comprehensive data analysis dashboard that explores the 
 
 ## 📬 Contact
 
-For queries or collaborations, please reach out at [your-email@example.com].
+For queries or collaborations, please reach out at [yashwibharti@gmail.com].
