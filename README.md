@@ -16,12 +16,7 @@ This project presents a comprehensive data analysis dashboard that explores the 
 - **Vital Sign Trends**: Insights into blood pressure, cholesterol, and heart rate categories.
 - **Interactive Filters**: Allows filtering by gender, heart disease presence, blood pressure category, and more.
 - **Comparative Visuals**: Pie charts, line graphs, and bar charts showing differences by category and condition.
-
-## 🛠 Tools & Technologies
-
-- **Data Visualization Tool**: [Mention tool used – e.g., Tableau, Power BI]
-- **Dataset**: Heart disease clinical dataset [Add source if applicable]
-- **Techniques**: Descriptive statistics, correlation analysis, demographic segmentation
+- 
 
 ## 📈 Key Insights
 
